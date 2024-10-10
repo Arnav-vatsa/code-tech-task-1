@@ -1,7 +1,7 @@
-Name-Arnav Vatsa
-company-CODTECH-Solutions
-Domain- Cloud computing
-Duration-sept to oct 2024
+**Name**-Arnav Vatsa
+**Company**-CODTECH-Solutions
+**Domain**- Cloud computing
+**Duration**-sept to oct 2024
 
 This is a complete machine learning end-to-end pipeline project where
 our goal is not only making predictions with good accuracy but also
